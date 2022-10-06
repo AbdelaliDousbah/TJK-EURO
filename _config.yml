@@ -3,7 +3,7 @@ email: "abdelali.dousbah@outlook.com"
 description: >- # this means to ignore newlines until "baseurl:"
  Eurogrue Maroc - solutions levage et Manutention.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com.
+url: "https://eurogrue-propo.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com.
 facebook_url: https://www.facebook.com/
 twitter_url: https://twitter.com/
 github_url:  https://github.com/
